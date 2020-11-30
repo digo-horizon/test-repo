@@ -1,4 +1,11 @@
 {
+  "signup": {
+    "id": 1,
+    "name": "Priscila Roeder",
+    "email": "priscilaroederandrade@gmail.com",
+    "phone": "41999952213",
+    "cpf": "01017266948"
+  },
   "login": {
     "id": 1,
     "name": "Priscila Roeder",
