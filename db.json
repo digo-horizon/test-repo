@@ -1,17 +1,59 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "users": [
     { "id": 1, "name": "Priscila Roeder", "cpf": "01017266948", "role": "CONSULTOR", "phone": "41999952213", "email": "priscilaroederandrade@gmail.com" }
   ],
   "profile": {
     "name": "typicode"
+  },
+  "login": {
+    "name": "Priscila Roeder",
+    "email": "priscilaroederandrade@gmail.com",
+    "phone": "41999952213",
+    "cpf": "01017266948"
+  },
+  "saveSale": {
+    "id": 5,
+    "total": 458.99,
+    "date": "2020-12-01",
+    "cashbackPercentage": 5,
+    "cashbackTotal": 22.95,
+    "status": "APPROVED"
+  },
+  "sale": [
+    {
+    "id": 1,
+    "total": 700.0,
+    "date": "2020-10-16",
+    "cashbackPercentage": 5,
+    "cashbackTotal": 35.0,
+    "status": "APPROVED"
+  },
+  {
+    "id": 2,
+    "total": 800,
+    "date": "2020-11-01",
+    "cashbackPercentage": 5,
+    "cashbackTotal": 40,
+    "status": "APPROVED"
+  },
+  {
+    "id": 3,
+    "total": 1200,
+    "date": "2020-11-15",
+    "cashbackPercentage": 5,
+    "cashbackTotal": 60,
+    "status": "VALIDATING"
+  },
+  {
+    "id": 4,
+    "total": 250.0,
+    "date": "2020-11-30",
+    "cashbackPercentage": 5,
+    "cashbackTotal": 12.5,
+    "status": "REJECTED"
   }
+  ],
+  "cashback": {
+    "total": 75.0
+  },
 }
