@@ -6,7 +6,7 @@
     "phone": "41999952213",
     "cpf": "01017266948"
   },
-  "saveSale": {
+  "checkout": {
     "id": 5,
     "total": 458.99,
     "date": "2020-12-01",
@@ -14,7 +14,7 @@
     "cashbackTotal": 22.95,
     "status": "APPROVED"
   },
-  "sale": [
+  "purchase": [
     {
     "id": 1,
     "total": 700.0,
