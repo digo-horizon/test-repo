@@ -56,6 +56,7 @@
   }
   ],
   "cashback": {
-    "total": 75.0
+    "avaiable": 75.0,
+    "validating": 60
   }
 }
