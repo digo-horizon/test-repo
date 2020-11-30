@@ -1,11 +1,6 @@
 {
-  "users": [
-    { "id": 1, "name": "Priscila Roeder", "cpf": "01017266948", "phone": "41999952213", "email": "priscilaroederandrade@gmail.com" }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "login": {
+    "id": 1,
     "name": "Priscila Roeder",
     "email": "priscilaroederandrade@gmail.com",
     "phone": "41999952213",
@@ -21,6 +16,7 @@
   },
   "sale": [
     {
+    "id": 1,
     "total": 700.0,
     "date": "2020-10-16",
     "cashbackPercentage": 5,
@@ -28,6 +24,7 @@
     "status": "APPROVED"
   },
   {
+    "id": 2,
     "total": 800,
     "date": "2020-11-01",
     "cashbackPercentage": 5,
@@ -35,6 +32,7 @@
     "status": "APPROVED"
   },
   {
+    "id": 3,
     "total": 1200,
     "date": "2020-11-15",
     "cashbackPercentage": 5,
@@ -42,6 +40,7 @@
     "status": "VALIDATING"
   },
   {
+    "id": 4,
     "total": 250.0,
     "date": "2020-11-30",
     "cashbackPercentage": 5,
